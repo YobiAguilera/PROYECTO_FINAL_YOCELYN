@@ -1,0 +1,15 @@
+# Bases de datos (se regeneran con 01_pipeline.py)
+*.db
+
+# Carpeta interna de Claude
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
